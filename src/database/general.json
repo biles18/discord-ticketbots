@@ -1,0 +1,68 @@
+{
+    "system": true,
+    "definition": {
+        "functionsTicket": {
+            "notifyuser": true,
+            "assumir": true,
+            "call": true,
+            "renomear": false,
+            "gerenciar": true,
+            "motivo": true
+        },
+        "channels": {
+            "logs": "1344449637515530360",
+            "feedback": "1345460932381380618",
+            "category": "1345460830317056030"
+        },
+        "role": "1344449629596422297"
+    },
+    "panel": {
+        "mensagem": {
+            "content": false,
+            "embeds": {
+                "title": "Suporte TurboPVP",
+                "desc": "🎫 | Abrir um Ticket - TurboPVP\n\nPrecisa de ajuda ou tem alguma dúvida sobre o servidor? Estamos aqui para ajudar!\n\nPara abrir um ticket, clique no botão abaixo e selecione o motivo do seu contato. Nossa equipe de suporte entrará em contato com você o mais breve possível.\n\n❕ | Motivos para abrir um ticket:\n\n> Solcitar tag\n> \n> Parcerias ou dúvidas\n> \n> Assuntos relacionados ao servidor\n\n❕| Atenção:\n\n> Use o ticket apenas para assuntos relacionados ao servidor.\n> \n> Forneça o máximo de detalhes possíveis para agilizar o atendimento.\n> \n> Respeite nossa equipe e aguarde pacientemente a resposta.\n\n🕰️ | Horários de atendimentos:\n\nSegunda a Sábado: 14:00 (Duas horas) até 21:00 (Nove horas)\nDomingo: 12:00 (Meio dia) até 23:00 (Vinte e três horas)\n\nSelecione a função abaixo para abrir seu ticket e receber suporte personalizado!",
+                "banner": null,
+                "cor": "#9c5f03"
+            },
+            "msg": {
+                "content": "Não Definido",
+                "banner": null
+            }
+        },
+        "functions": {
+            "recrutamento": {
+                "predesc": "Faça parte da família TurboPVP",
+                "desc": "Ticket Recrutamento - Você é um jogador experiente ou só quer se diverter jogando um bedwars e ou skywars ? Você veio ao lugar certo !",
+                "banner": null,
+                "emoji": "😃"
+            },
+            "Solicitar tag": {
+                "predesc": "Você é um youtuber e deseja uma tag ?",
+                "desc": "Ticket Solicitar TAG - Você é um youtuber ou tik toker e deseja garantir a sua tag para divulgar seu trabalho ? Você veio ao lugar certo !",
+                "banner": null,
+                "emoji": "📣"
+            },
+            "Parceria": {
+                "predesc": "Quer uma ajuda com a divulgação do seu servidor ?",
+                "desc": "Ticket de parceria - Procura divulgar seu servidor ou ajudar de alguma forma ? Você veio ao lugar certo !",
+                "banner": null,
+                "emoji": "🤝"
+            },
+            "Denúncia": {
+                "predesc": "Ei, viu algo de errado ? Fale conosco !",
+                "desc": "Ticket Denuncia - Ei, viu um jogador infringindo alguma regra do servidor ? Denuncie aqui !",
+                "banner": null,
+                "emoji": "🔨"
+            },
+            "Duvida": {
+                "predesc": "Onde é que eu to ? Esta perdido ?",
+                "desc": "Ticket Dúvida - Onde é que eu to Jesus ? Ei, ta perdido, fale conosco para tirar suas duvidas !",
+                "banner": null,
+                "emoji": "⁉️"
+            }
+        },
+        "button": false,
+        "messages": []
+    }
+}
